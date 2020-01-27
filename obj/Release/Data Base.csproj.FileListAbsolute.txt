@@ -1,0 +1,11 @@
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\bin\Release\Data Base.exe.config
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\bin\Release\Data Base.exe
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\bin\Release\Data Base.pdb
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data_Base.Form1.resources
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data_Base.Input_Changes.resources
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data_Base.Properties.Resources.resources
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data_Base.Result.resources
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data Base.csproj.GenerateResource.cache
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data Base.csproj.CoreCompileInputs.cache
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data Base.exe
+C:\Users\d.shcherbachenya\Desktop\projects\Data Base\obj\Release\Data Base.pdb
